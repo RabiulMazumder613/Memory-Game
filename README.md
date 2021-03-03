@@ -37,6 +37,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 <img src='Memory.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 
