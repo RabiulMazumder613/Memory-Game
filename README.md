@@ -39,11 +39,14 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='Memory.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+(Gif is at an FPS of 8 that is why it appears like the button doesn't light up when clicked as the moment it lights up the LICEcap skips it)
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+- https://colorswall.com/palette/25148/
+- https://www.pinterest.com/pin/816699713653227113/
+- https://www.colorcombos.com/color-schemes/207/ColorCombo207.html
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
