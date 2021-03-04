@@ -44,6 +44,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+   These were sites I used to find the Color Hex Codes for the Header and 2 additional buttons
   - https://colorswall.com/palette/25148/
   - https://www.pinterest.com/pin/816699713653227113/
   - https://www.colorcombos.com/color-schemes/207/ColorCombo207.html
